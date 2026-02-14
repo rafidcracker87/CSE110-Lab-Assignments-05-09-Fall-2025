@@ -44,6 +44,8 @@ public class lab_08_01{
     }
 }
 
+
+
 //Task 2
 import java.util.Scanner;
 public class lab_08_02{
@@ -82,6 +84,8 @@ public class lab_08_02{
     }
 }
 
+
+
 //Task 3
 import java.util.Scanner;
 public class lab_08_03{
@@ -117,4 +121,5 @@ public class lab_08_03{
            int age1=sc.nextInt();
            calcYearlyTax(age1);
        }
+
 }
