@@ -48,7 +48,9 @@ public class lab_06_01{
              System.out.println("2-Digit PIN: 0");
          }
     }
-}      
+} 
+
+
 
 //Task 2
 import java.util.Scanner;
@@ -80,7 +82,9 @@ public class lab_06_02{
         }
         System.out.println(s1);
     }
-}      
+} 
+
+
 
 //Task 3
 import java.util.Scanner;
@@ -131,7 +135,9 @@ public class lab_06_03{
         System.out.println("Largest spell:"+max_cap_spell);
         System.out.println("Power Level:"+sum);
     }
-}        
+} 
+
+
 
 //Task 4
 import java.util.Scanner;
@@ -199,6 +205,8 @@ public class lab_06_04{
     }
 }
 
+
+
 //Task 5
 import java.util.Scanner;
 public class lab_06_05{
@@ -219,4 +227,5 @@ public class lab_06_05{
         int len=new_str.length();
         System.out.println(len);
     }
+
 }
