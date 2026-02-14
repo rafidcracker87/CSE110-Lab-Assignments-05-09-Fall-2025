@@ -31,6 +31,8 @@ public class lab_07_01{
     }
 }
 
+
+
 //Task 2
 import java.util.Scanner;
 public class lab_07_02{
@@ -62,6 +64,8 @@ public class lab_07_02{
         }
     }
 }
+
+
 
 //Task 3
 import java.util.Scanner;
@@ -99,7 +103,9 @@ public class lab_07_03{
         System.out.println("Summation:"+sum);
         System.out.println("Average:"+avg);
     }
-}           
+}  
+
+
 
 //Task 4
 import java.util.Scanner;
@@ -138,6 +144,8 @@ public class lab_07_04{
         }
     }
 }
+
+
 
 //Task 5
 import java.util.Scanner;
@@ -181,4 +189,5 @@ public class lab_07_05{
             System.out.print(arr2[j]+" ");
         }
     }
+
 }                
