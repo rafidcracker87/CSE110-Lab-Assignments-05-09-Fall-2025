@@ -16,6 +16,8 @@ public class lab_09_01{
      }
 }
 
+
+
 //Task 2
 import java.util.Scanner;
 public class lab_09_02{
@@ -36,6 +38,8 @@ public class lab_09_02{
      System.out.println(power(num,exp1));
      }
 }
+
+
     
 //Task 3
 import java.util.Scanner;
@@ -61,6 +65,8 @@ public static void main(String[] args){
 }
 }
 
+
+
 //Task 4
 import java.util.Scanner;
 public class lab_09_04{
@@ -81,4 +87,5 @@ public class lab_09_04{
      int num1=sc.nextInt();
      System.out.println(fibonacci(num1));
     }
+
 }
