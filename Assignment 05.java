@@ -39,7 +39,9 @@ public class lab_05_1{
             System.out.println();
         }
     }
-}     
+} 
+
+
 
 //Task 2
 import java.util.Scanner;
@@ -84,6 +86,8 @@ public class lab_05_2{
         }
     }
 
+
+
 //Task 3
 import java.util.Scanner;
 public class lab_05_3{
@@ -126,6 +130,8 @@ public class lab_05_3{
         }
     }
 }
+
+
 
 //Task 4
 import java.util.Scanner;
@@ -190,6 +196,8 @@ public class lab_05_4{
         }
     }
 }  
+
+
          
 //Task 5
 import java.util.Scanner;
@@ -215,7 +223,9 @@ public class lab_05_5{
             System.out.println();
         }
     }
-}       
+}  
+
+
 
 //Task 6
 import java.util.Scanner;
@@ -242,6 +252,8 @@ public class lab_05_6{
         }
     }
 }
+
+
 
 //Task 7
 import java.util.Scanner;
@@ -278,4 +290,5 @@ public class lab_05_7{
             System.out.println();
         }
     }
+
 }  
